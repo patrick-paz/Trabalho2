@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trabalho Prático 2</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Deletar</string>
+    <string name="act_add">Adicionar</string>
+    <string name="item">Item:</string>
+    <string name="titleDialog">Menu Itens</string>
+    <string name="positive">OK</string>
+    <string name="negative">Cancelar</string>
+</resources>
